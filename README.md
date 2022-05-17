@@ -6,3 +6,8 @@ The error I'm getting:-
 ![image](https://user-images.githubusercontent.com/67225894/168853829-2288a55e-b0f6-48e9-9ae3-ee4681859c87.png)
 
 Still working on it...!
+
+The design :-
+
+![image](https://user-images.githubusercontent.com/67225894/168858339-25dc2c8d-f9ac-426a-b65a-06ad98d36667.png)
+
